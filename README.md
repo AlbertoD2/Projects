@@ -6,6 +6,6 @@ Each project has its own repository, version history and local folder. This repo
 
 ## Project repositories
 
-No projects have been added yet.
+- [Dream2.io](https://github.com/AlbertoD2/Dream2.io) — Personal website with an animated landscape, a lightweight Studio CMS, and collections of digital, visual, and written work.
 
 As each project repository is created, add its name, link and a one-sentence description here.
